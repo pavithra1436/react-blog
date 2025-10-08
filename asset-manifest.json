@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-blog/static/css/main.54ab010c.css",
+    "main.js": "/react-blog/static/js/main.e151d3de.js",
+    "static/media/register-bg.JPG": "/react-blog/static/media/register-bg.554a782acfbfa9e2627e.JPG",
+    "static/media/login-bg.JPG": "/react-blog/static/media/login-bg.a7058f28c53f6ed068ef.JPG",
+    "index.html": "/react-blog/index.html",
+    "main.54ab010c.css.map": "/react-blog/static/css/main.54ab010c.css.map",
+    "main.e151d3de.js.map": "/react-blog/static/js/main.e151d3de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54ab010c.css",
+    "static/js/main.e151d3de.js"
+  ]
+}
