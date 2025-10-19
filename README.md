@@ -7,7 +7,7 @@ A simple and clean blog application built with React. This app allows users to r
 ## 🚀 Live Demo
 
 > Live demo coming soon  
-> (You can deploy using Vercel, Netlify, or GitHub Pages and add your link here.)
+> https://pavithra1436.github.io/react-blog/
 
 ---
 
